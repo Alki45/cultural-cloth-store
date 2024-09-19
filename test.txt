@@ -1,0 +1,7 @@
+How TO Deploy in github
+-- run- npm install gh-pages --save-dev
+-- then Under package.json file - homepage": "https://alki45.github.io/cultural-cloth-store","
+                                -   "scripts": 
+                                            "predeploy": "npm run build",
+                                            "deploy": "gh-pages -d build",
+-- at terminal write npm run deploygit 

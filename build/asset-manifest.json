@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cultural-cloth-store/static/css/main.3ee492a2.css",
+    "main.js": "/cultural-cloth-store/static/js/main.1443364d.js",
+    "static/js/453.42ebbe23.chunk.js": "/cultural-cloth-store/static/js/453.42ebbe23.chunk.js",
+    "index.html": "/cultural-cloth-store/index.html",
+    "main.3ee492a2.css.map": "/cultural-cloth-store/static/css/main.3ee492a2.css.map",
+    "main.1443364d.js.map": "/cultural-cloth-store/static/js/main.1443364d.js.map",
+    "453.42ebbe23.chunk.js.map": "/cultural-cloth-store/static/js/453.42ebbe23.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3ee492a2.css",
+    "static/js/main.1443364d.js"
+  ]
+}
