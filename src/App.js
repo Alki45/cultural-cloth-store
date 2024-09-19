@@ -55,7 +55,7 @@ function App() {
               <div className="collapse navbar-collapse justify-content-end" id="navbarNav">
                 <ul className="navbar-nav">
                   <li className="nav-item">
-                    <Link className="nav-link active" aria-current="page" to="/">Home</Link>
+                    <Link className="nav-link active" aria-current="page" to="/#">Home</Link>
                   </li>
                   <li className="nav-item dropdown">
                     <div className="dropdown" onMouseEnter={() => setExploreDropdownOpen(true)} onMouseLeave={() => setExploreDropdownOpen(false)}>
