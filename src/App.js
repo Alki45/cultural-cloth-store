@@ -99,7 +99,7 @@ function App() {
           </nav>
 
           <Routes>
-            <Route exact path="/" element={<HomePage />} />
+            <Route exact path="/#" element={<HomePage />} />
             <Route path="/account" element={<ProtectedRoute><AccountPage /></ProtectedRoute>} />
             <Route path="/login" element={<AdminLogin />} />
             <Route path="/admin" element={<ProtectedRoute><AdminDashboard /></ProtectedRoute>} />
